@@ -1,3 +1,4 @@
+<img src="Othello_Screenshot.JPG" width=400 height =400>
 <h1> Welcome to Othello! </h1>
 This is a fully playable game of Othello which allows you the opportunity to play with a friend or, if the computer is your friend, against the computer.
 
